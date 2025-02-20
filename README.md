@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinupa Dulnith</h1>
 <h3 align="center">Tech Wolf – Software Engineer | Full Stack Developer 🚀</h3>
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dinupa-dulnith-a3b607294/](https://www.linkedin.com/in/dinupa-dulnith-a3b607294/)
 
